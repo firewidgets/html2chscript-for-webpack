@@ -1,0 +1,9 @@
+{
+  "name": "html2chscript-for-webpack",
+  "version": "0.0.1",
+  "description": "HTML templates to chscript loader for webpack",
+  "main": "index.js",
+  "dependencies": {
+    "loader-utils": "^0.2.11"
+  }
+}
